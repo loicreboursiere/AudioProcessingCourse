@@ -1,0 +1,3 @@
+[submodule "exercices/tremolo_plugin"]
+	path = exercices/tremolo_plugin
+	url = https://github.com/loicreboursiere/tremolo_plugin
